@@ -3,7 +3,8 @@
 ## Overview
 This dashboard monitors:
 
-- Account Logons
+- Successful Account Logons
+- Failed Account Logons
 
 ## Requirements
 - Splunk Enterprise 
@@ -11,4 +12,4 @@ This dashboard monitors:
 - Sysmon
 
 ## Dashboard Features
-- Windows  Account Logons
+- Windows Account Logons
